@@ -1,0 +1,12 @@
+feb 16, 2020 9:06:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma conectarABaseDeDatos
+GRAVE: Hubo un error al inicializar el controlador.
+feb 16, 2020 9:06:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma conectarABaseDeDatos
+GRAVE: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+feb 16, 2020 9:06:36 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 16, 2020 9:06:36 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 2
+feb 16, 2020 9:06:41 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20

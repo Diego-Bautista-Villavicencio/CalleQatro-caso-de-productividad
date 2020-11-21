@@ -1,0 +1,1333 @@
+</log>
+feb 17, 2020 12:04:42 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 12:04:42 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 2
+feb 17, 2020 12:04:44 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 12:04:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 12:04:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 2
+feb 17, 2020 12:04:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 12:05:01 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 12:09:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 12:09:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 2
+feb 17, 2020 12:09:56 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 12:10:09 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 12:10:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 17, 2020 12:20:27 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 12:20:27 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 2
+feb 17, 2020 12:20:29 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 12:22:08 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 12:22:08 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 2
+feb 17, 2020 12:22:10 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 12:22:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 12:24:04 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 12:24:04 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 12:24:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 1:06:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 1:06:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 1:06:05 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 1:06:20 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 1:08:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 1:08:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 1:08:20 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 1:08:29 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 1:08:29 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 1:08:30 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 1:08:38 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 1:09:51 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 17, 2020 1:10:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 1:10:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 1:10:50 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 1:10:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 1:11:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 1:11:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 1:11:50 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 5:32:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 5:32:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 5:32:58 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 5:33:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 5:33:35 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 5:33:35 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 5:33:37 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 5:33:44 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 5:36:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 5:36:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 5:36:20 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 5:36:29 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 5:36:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 5:36:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 5:36:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 5:38:24 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 5:39:09 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 5:39:09 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 5:39:12 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 5:39:22 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 5:40:00 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 5:40:00 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 5:40:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 5:40:24 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 5:47:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 5:47:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 5:47:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 5:47:45 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_standard (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 5:49:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 17, 2020 5:49:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 5:49:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 5:49:35 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 5:49:44 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_standard (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 5:52:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 5:52:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 5:52:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 5:53:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 5:56:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 5:56:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 5:56:58 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 5:57:07 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 5:57:07 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 5:57:09 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 5:57:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 6:06:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 6:06:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 6:06:48 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 6:07:01 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_standard (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 8:36:50 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 8:36:50 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 8:36:52 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 8:37:00 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 8:43:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 8:43:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 8:43:09 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 8:43:15 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 8:49:09 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 8:49:09 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 8:49:11 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 8:49:19 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_standard (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 8:53:20 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 8:53:20 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 8:53:21 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 8:53:35 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 8:57:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 17, 2020 10:15:17 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 10:15:17 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 10:15:19 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 10:15:24 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 17, 2020 10:17:43 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 17, 2020 10:17:43 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 17, 2020 10:17:45 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 17, 2020 10:17:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 18, 2020 12:57:39 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 18, 2020 12:57:39 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 18, 2020 12:57:44 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 18, 2020 12:59:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 18, 2020 12:59:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 18, 2020 12:59:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 18, 2020 1:00:08 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 18, 2020 1:01:11 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 18, 2020 1:01:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 18, 2020 1:01:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 18, 2020 1:01:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 18, 2020 1:01:37 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 18, 2020 1:02:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 18, 2020 1:04:37 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 18, 2020 1:04:37 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 18, 2020 1:04:39 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 18, 2020 1:04:58 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 18, 2020 1:07:38 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 18, 2020 1:55:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 18, 2020 1:55:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 18, 2020 1:55:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 18, 2020 1:55:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 18, 2020 2:01:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 19, 2020 11:23:44 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 19, 2020 11:23:44 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 19, 2020 11:23:46 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 19, 2020 11:26:39 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 19, 2020 11:26:39 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 19, 2020 11:26:41 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 20
+feb 19, 2020 11:26:50 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 19, 2020 11:27:42 AM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 19, 2020 12:27:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 19, 2020 12:27:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 20
+feb 19, 2020 12:27:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 19, 2020 12:28:00 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 19, 2020 12:28:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 19, 2020 1:02:39 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 19, 2020 1:02:39 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 19, 2020 1:02:40 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 19, 2020 1:06:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 19, 2020 1:06:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 19, 2020 1:06:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 19, 2020 1:06:41 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 19, 2020 1:11:58 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 19, 2020 1:12:10 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 19, 2020 1:12:10 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 19, 2020 1:12:11 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 19, 2020 1:12:20 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_standard (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 19, 2020 1:12:45 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 19, 2020 1:13:41 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 19, 2020 1:13:41 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 19, 2020 1:13:42 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 19, 2020 1:13:52 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_standard (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 19, 2020 1:14:00 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 19, 2020 1:14:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 19, 2020 1:14:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 19, 2020 1:14:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 19, 2020 1:15:05 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 19, 2020 1:49:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 20, 2020 10:24:49 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 20, 2020 10:24:49 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 20, 2020 10:24:51 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 20, 2020 10:27:30 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 20, 2020 10:41:44 AM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 20, 2020 10:41:53 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 20, 2020 10:41:53 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 20, 2020 10:41:54 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 20, 2020 10:42:02 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 20, 2020 10:42:02 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 20, 2020 10:42:04 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 20, 2020 10:42:13 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 20, 2020 10:43:48 AM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 21, 2020 1:05:01 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 21, 2020 1:05:02 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 21, 2020 1:05:05 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 21, 2020 1:07:35 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 21, 2020 1:07:35 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 21, 2020 1:07:37 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 21, 2020 1:07:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 21, 2020 1:07:56 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+feb 21, 2020 1:08:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 21, 2020 1:08:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 21, 2020 1:08:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 21, 2020 1:08:42 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 21, 2020 1:08:50 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+feb 21, 2020 1:11:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 21, 2020 1:11:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 21, 2020 1:11:48 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 21, 2020 1:12:10 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 21, 2020 1:12:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+feb 21, 2020 1:28:21 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 21, 2020 1:28:21 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 21, 2020 1:28:23 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 21, 2020 1:28:44 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 21, 2020 1:28:52 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+feb 21, 2020 1:30:51 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 21, 2020 1:30:51 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 21, 2020 1:30:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 21, 2020 1:31:08 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 21, 2020 1:31:14 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+feb 21, 2020 1:32:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 21, 2020 1:32:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 21, 2020 1:33:02 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 21, 2020 1:33:13 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 21, 2020 1:33:19 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+feb 21, 2020 1:33:56 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 21, 2020 1:33:56 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 21, 2020 1:33:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 21, 2020 1:34:11 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 21, 2020 1:34:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 21, 2020 1:36:08 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 21, 2020 1:36:08 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 21, 2020 1:36:10 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 21, 2020 1:36:19 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 21, 2020 1:36:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 21, 2020 1:45:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 21, 2020 1:45:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 21, 2020 1:45:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 21, 2020 1:45:37 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 21, 2020 2:00:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 21, 2020 2:00:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 21, 2020 2:00:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 21, 2020 2:01:09 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 21, 2020 3:08:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 24, 2020 12:09:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 12:09:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 12:09:39 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 12:11:10 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 12:11:24 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+feb 24, 2020 12:12:29 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 12:12:29 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 12:12:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 12:12:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 12:36:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 12:36:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 12:36:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 12:36:52 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 12:42:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 24, 2020 1:19:38 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 1:19:38 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 1:19:42 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 1:24:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 1:24:15 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 24, 2020 1:30:19 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 1:30:19 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 1:30:23 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 1:30:31 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 1:30:43 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 24, 2020 1:32:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 1:32:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 1:32:58 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 1:33:04 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 1:36:33 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 1:36:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 1:36:36 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 1:36:58 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 2:23:05 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 2:23:05 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 2:23:08 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 3:07:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 3:07:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 3:07:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 3:08:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 3:08:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 3:09:01 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 9:37:22 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 9:37:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma conectarABaseDeDatos
+GRAVE: Hubo un error al inicializar el controlador.
+feb 24, 2020 9:37:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma conectarABaseDeDatos
+GRAVE: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+feb 24, 2020 9:40:15 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 9:40:21 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 9:40:22 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 9:40:29 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 9:41:43 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 9:51:08 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 9:51:10 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 9:51:11 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 9:51:14 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 9:51:29 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_standard (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 9:51:38 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 24, 2020 9:51:43 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 9:51:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 2
+feb 24, 2020 9:51:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 9:51:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 9:52:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_admin (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 9:52:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 9:52:50 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 24, 2020 9:52:50 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 9:52:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 9:53:20 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 10:01:11 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 24, 2020 10:01:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 10:01:19 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 24, 2020 10:01:19 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 10:01:22 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 10:01:31 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 10:03:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 24, 2020 10:03:13 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+ADVERTENCIA: No se ha encontrado un archivo de sistema. Generando...
+feb 24, 2020 10:03:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 24, 2020 10:03:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 10:03:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 10:03:24 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 10:03:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 24, 2020 10:04:44 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 10:04:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 24, 2020 10:04:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 10:04:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 10:05:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 10:06:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 24, 2020 10:07:25 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 10:07:27 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 24, 2020 10:07:27 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 10:07:29 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 10:07:36 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 10:11:00 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 10:11:02 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 24, 2020 10:11:02 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 10:11:04 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 10:11:10 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 10:12:10 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 24, 2020 10:13:14 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 10:13:17 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 24, 2020 10:13:17 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 10:13:19 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 10:13:25 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 10:13:33 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.IllegalStateException: Cannot get a NUMERIC value from a STRING cell
+feb 24, 2020 10:14:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 10:14:37 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 24, 2020 10:14:37 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 10:14:39 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 10:14:56 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 10:15:04 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.ArithmeticException: Rounding necessary
+feb 24, 2020 10:15:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 10:15:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 24, 2020 10:15:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 10:15:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 10:16:08 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 10:19:23 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 10:19:25 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 24, 2020 10:19:25 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 10:19:27 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 10:19:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 10:19:44 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 24, 2020 10:20:42 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 24, 2020 10:20:45 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 24, 2020 10:20:45 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 24, 2020 10:20:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 24, 2020 10:20:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 24, 2020 10:22:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 25, 2020 11:58:42 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 25, 2020 11:58:46 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 25, 2020 11:58:46 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 25, 2020 11:58:49 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 25, 2020 11:59:16 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 25, 2020 11:59:53 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+feb 25, 2020 12:00:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 25, 2020 12:00:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 25, 2020 12:00:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 25, 2020 12:00:21 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 25, 2020 12:00:30 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 25, 2020 12:00:36 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+feb 25, 2020 12:00:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 25, 2020 12:00:51 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 25, 2020 12:00:51 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 25, 2020 12:00:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 25, 2020 12:00:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 25, 2020 12:01:14 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+feb 25, 2020 12:03:25 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 25, 2020 12:03:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 25, 2020 12:03:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 25, 2020 12:03:31 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 25, 2020 12:03:43 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 25, 2020 12:03:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: org.apache.poi.ss.formula.eval.NotImplementedException: Error evaluating cell 'RECIBO NOMINA'!B12
+feb 25, 2020 12:10:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 25, 2020 12:10:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 25, 2020 12:10:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 25, 2020 12:10:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 25, 2020 12:11:13 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 25, 2020 12:19:40 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 25, 2020 12:38:42 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 25, 2020 12:38:45 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 25, 2020 12:38:45 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 25, 2020 12:38:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 25, 2020 12:40:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 25, 2020 12:41:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 25, 2020 12:41:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 25, 2020 12:41:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 25, 2020 12:41:11 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 25, 2020 1:02:15 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 25, 2020 1:58:45 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 25, 2020 1:58:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 25, 2020 1:58:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 25, 2020 1:58:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 25, 2020 1:59:05 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 26, 2020 1:26:07 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 26, 2020 1:26:12 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 26, 2020 1:26:12 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 26, 2020 1:26:13 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 26, 2020 1:26:25 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 26, 2020 1:31:30 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 26, 2020 1:31:33 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 26, 2020 1:31:33 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 26, 2020 1:31:35 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 26, 2020 1:31:42 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 26, 2020 1:36:43 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 26, 2020 1:36:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 26, 2020 1:36:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 26, 2020 1:36:47 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 26, 2020 1:36:56 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 26, 2020 1:53:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 29, 2020 7:13:07 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 29, 2020 7:13:14 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 29, 2020 7:13:14 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 29, 2020 7:13:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 29, 2020 7:13:24 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 29, 2020 7:15:39 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 29, 2020 7:16:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 29, 2020 7:16:29 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 29, 2020 7:16:29 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 29, 2020 7:16:31 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 29, 2020 7:16:38 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 29, 2020 7:18:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 29, 2020 11:13:36 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 29, 2020 11:13:39 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 29, 2020 11:13:39 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 29, 2020 11:13:41 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 29, 2020 11:14:02 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 29, 2020 11:14:31 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+feb 29, 2020 11:14:40 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 29, 2020 11:14:42 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 29, 2020 11:14:43 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 29, 2020 11:14:45 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 29, 2020 11:16:14 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 29, 2020 11:21:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 29, 2020 11:21:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 29, 2020 11:21:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 29, 2020 11:21:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 29, 2020 11:21:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 29, 2020 11:22:02 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 29, 2020 11:22:02 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 29, 2020 11:22:04 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 29, 2020 11:22:12 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 29, 2020 11:29:20 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 29, 2020 11:29:23 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 29, 2020 11:29:23 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 29, 2020 11:29:27 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 29, 2020 11:29:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+feb 29, 2020 11:30:21 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+feb 29, 2020 11:45:37 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+feb 29, 2020 11:45:40 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+feb 29, 2020 11:45:40 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+feb 29, 2020 11:45:41 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+feb 29, 2020 11:45:56 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 01, 2020 12:23:16 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+mar 01, 2020 12:23:20 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+mar 01, 2020 12:23:20 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 01, 2020 12:23:23 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 01, 2020 12:23:38 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 01, 2020 12:35:41 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+mar 01, 2020 12:35:43 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+mar 01, 2020 12:35:43 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 01, 2020 12:35:44 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 01, 2020 12:36:02 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 01, 2020 6:42:51 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+mar 01, 2020 6:42:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 3
+mar 01, 2020 6:42:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 01, 2020 6:43:02 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 01, 2020 6:44:30 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario eliud (Eliud Arenas Elizarrarás) ha iniciado sesión.
+mar 01, 2020 6:47:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+mar 01, 2020 6:47:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de sistema.
+mar 01, 2020 6:47:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 4
+mar 01, 2020 6:47:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 01, 2020 6:47:58 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 10, 2020 12:18:00 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 10, 2020 12:18:00 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+ADVERTENCIA: No se ha encontrado un archivo de nómina en el sistema. Generando...
+mar 10, 2020 12:53:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 10, 2020 12:53:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+ADVERTENCIA: No se ha encontrado un archivo de propiedades en el sistema. Generando...
+mar 10, 2020 12:54:01 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 10, 2020 12:54:01 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 10, 2020 12:54:02 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 10, 2020 12:54:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 10, 2020 12:55:35 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+mar 10, 2020 12:57:13 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 10, 2020 12:57:13 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 10, 2020 12:57:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 10, 2020 12:57:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 10, 2020 12:57:17 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 10, 2020 12:57:33 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 10, 2020 12:57:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+mar 10, 2020 12:58:51 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 10, 2020 12:58:51 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 10, 2020 12:58:53 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 10, 2020 12:58:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 10, 2020 12:58:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 10, 2020 12:59:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 10, 2020 12:59:14 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+mar 12, 2020 1:38:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 12, 2020 1:38:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 12, 2020 1:38:51 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 12, 2020 1:38:52 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 12, 2020 1:38:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 12, 2020 1:38:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 12, 2020 1:40:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 12, 2020 1:40:46 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 12, 2020 1:40:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 12, 2020 1:40:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 12, 2020 1:40:52 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 12, 2020 1:41:00 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 13, 2020 11:20:30 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 13, 2020 11:20:30 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 13, 2020 11:20:32 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 13, 2020 11:20:33 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 13, 2020 11:20:37 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 13, 2020 11:21:00 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 13, 2020 4:53:12 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+mar 16, 2020 3:48:24 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 16, 2020 3:48:25 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 16, 2020 3:48:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 16, 2020 3:48:33 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 16, 2020 3:48:37 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 16, 2020 3:48:51 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 16, 2020 3:49:36 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+mar 17, 2020 10:14:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 17, 2020 10:14:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 17, 2020 10:14:31 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 17, 2020 10:14:31 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 17, 2020 10:14:33 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 17, 2020 10:14:45 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 17, 2020 10:15:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+mar 17, 2020 10:41:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 17, 2020 10:41:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 17, 2020 10:41:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 17, 2020 10:41:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 17, 2020 10:41:20 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 17, 2020 10:41:31 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 17, 2020 10:42:41 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+mar 19, 2020 5:21:04 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 19, 2020 5:21:04 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 19, 2020 5:21:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 19, 2020 5:21:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 19, 2020 5:21:08 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 19, 2020 5:21:14 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 19, 2020 5:22:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+mar 19, 2020 5:23:52 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 19, 2020 5:23:52 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 19, 2020 5:23:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 19, 2020 5:23:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 56
+mar 19, 2020 5:23:58 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 56
+mar 19, 2020 5:24:23 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 19, 2020 5:24:23 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 19, 2020 5:24:25 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 19, 2020 5:24:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 19, 2020 5:24:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 19, 2020 5:24:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 19, 2020 5:25:19 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+mar 19, 2020 5:27:11 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 19, 2020 5:27:11 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 19, 2020 5:27:13 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 19, 2020 5:27:13 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 19, 2020 5:27:15 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 19, 2020 5:27:20 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 19, 2020 5:28:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: java.lang.NullPointerException
+mar 19, 2020 5:31:02 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 19, 2020 5:31:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 19, 2020 5:31:07 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 19, 2020 5:31:07 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 56
+mar 19, 2020 5:31:10 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 56
+mar 19, 2020 5:44:09 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 19, 2020 5:44:09 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 19, 2020 5:44:12 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 19, 2020 5:44:12 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 19, 2020 5:44:15 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 19, 2020 5:44:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 19, 2020 5:45:05 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: org.apache.poi.ss.formula.eval.NotImplementedException: Error evaluating cell Empleados!H56
+mar 19, 2020 6:36:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 19, 2020 6:36:49 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 19, 2020 6:36:52 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 19, 2020 6:36:52 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 19, 2020 6:36:55 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 19, 2020 6:37:01 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 19, 2020 6:37:44 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: org.apache.poi.ss.formula.eval.NotImplementedException: Error evaluating cell Empleados!I56
+mar 19, 2020 6:38:50 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 19, 2020 6:38:50 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 19, 2020 6:39:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 19, 2020 6:39:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 19, 2020 6:39:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 19, 2020 6:39:06 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 19, 2020 6:39:09 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 19, 2020 6:39:18 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 19, 2020 6:39:58 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+GRAVE: org.apache.poi.ss.formula.eval.NotImplementedException: Error evaluating cell 'CALCULO Y BASE'!L78
+mar 19, 2020 6:41:37 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 19, 2020 6:41:37 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 19, 2020 6:41:41 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 19, 2020 6:41:42 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 19, 2020 6:41:48 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 19, 2020 7:54:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 19, 2020 7:54:16 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 19, 2020 7:54:19 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 19, 2020 7:54:20 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 56
+mar 19, 2020 7:54:22 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 56
+mar 19, 2020 7:55:21 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 19, 2020 7:55:21 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 19, 2020 7:55:24 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 19, 2020 7:55:25 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 19, 2020 7:55:27 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 19, 2020 7:55:34 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 19, 2020 7:56:25 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+mar 23, 2020 11:39:55 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 23, 2020 11:39:55 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 23, 2020 11:39:58 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 23, 2020 11:39:59 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 23, 2020 11:40:01 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 23, 2020 11:44:23 AM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 23, 2020 11:45:18 AM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+mar 28, 2020 5:17:56 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 28, 2020 5:17:56 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 28, 2020 5:18:50 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 28, 2020 5:18:50 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 28, 2020 5:18:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 28, 2020 5:18:54 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 28, 2020 5:18:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 28, 2020 5:19:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 28, 2020 5:21:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+mar 28, 2020 5:24:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 28, 2020 5:24:59 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 28, 2020 5:25:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 28, 2020 5:25:03 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 28, 2020 5:25:07 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 28, 2020 5:25:13 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 28, 2020 5:26:21 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+mar 28, 2020 5:28:23 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+mar 28, 2020 5:28:23 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+mar 28, 2020 5:28:26 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+mar 28, 2020 5:28:27 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+mar 28, 2020 5:28:29 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+mar 28, 2020 5:28:57 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+mar 28, 2020 5:31:13 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+abr 13, 2020 9:02:21 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de nómina de sistema.
+abr 13, 2020 9:02:21 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Se ha encontrado un archivo de propiedades de sistema.
+abr 13, 2020 9:02:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Usuarios: 5
+abr 13, 2020 9:02:28 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados de la base: 55
+abr 13, 2020 9:02:32 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: Empleados: 55
+abr 13, 2020 9:06:20 PM proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFORMACIÓN: El usuario SSB1_root (Diego Bautista Villavicencio) ha iniciado sesión.
+abr 13, 2020 9:23:50 PM proyectoAbneriaMain.VentanaSelecciónPrograma lambda$1
+INFORMACIÓN: Programa cerrado con éxito.
+nov. 12, 2020 6:22:56 P. M. proyectoAbneriaMain.VentanaSelecciónPrograma main
+WARNING: No se ha encontrado un archivo de nómina en el sistema. Generando...
+nov. 12, 2020 6:22:57 P. M. proyectoAbneriaMain.VentanaSelecciónPrograma main
+WARNING: No se ha encontrado un archivo de propiedades en el sistema. Generando...
+nov. 12, 2020 6:22:58 P. M. proyectoAbneriaMain.VentanaSelecciónPrograma conectarABaseDeDatos
+SEVERE: Hubo un error al inicializar el controlador.
+nov. 12, 2020 6:22:58 P. M. proyectoAbneriaMain.VentanaSelecciónPrograma conectarABaseDeDatos
+SEVERE: java.sql.SQLSyntaxErrorException: Unknown database 'proyectoabneriaalpha'
+nov. 20, 2020 10:19:02 P. M. proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFO: Se ha encontrado un archivo de nómina de sistema.
+nov. 20, 2020 10:19:02 P. M. proyectoAbneriaMain.VentanaSelecciónPrograma main
+INFO: Se ha encontrado un archivo de propiedades de sistema.
+nov. 20, 2020 10:19:03 P. M. proyectoAbneriaMain.VentanaSelecciónPrograma conectarABaseDeDatos
+SEVERE: Hubo un error al inicializar el controlador.
+nov. 20, 2020 10:19:03 P. M. proyectoAbneriaMain.VentanaSelecciónPrograma conectarABaseDeDatos
+SEVERE: java.sql.SQLSyntaxErrorException: Unknown database 'proyectoabneriaalpha'
